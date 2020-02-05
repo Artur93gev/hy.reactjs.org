@@ -42,7 +42,7 @@
     "github-slugger": "^1.2.1",
     "glamor": "^2.20.40",
     "hex2rgba": "^0.0.1",
-    "mdast-util-to-string": "^1.0.5",
+    "mdast-util-to-string": "^1.0.7",
     "normalize.css": "^8.0.0",
     "prettier": "^1.7.4",
     "prismjs": "^1.15.0",
