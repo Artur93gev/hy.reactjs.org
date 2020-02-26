@@ -7,7 +7,7 @@
     "url": "https://github.com/reactjs/reactjs.org"
   },
   "dependencies": {
-    "babel-eslint": "^8.0.1",
+    "babel-eslint": "^10.1.0",
     "eslint": "^4.8.0",
     "eslint-config-fbjs": "^2.0.0",
     "eslint-config-react": "^1.1.7",
